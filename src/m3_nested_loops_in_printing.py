@@ -201,7 +201,7 @@ def alternating_brackets(m, n):
     Precondition:  m and n are positive integers with m >= n.
     """
     # ------------------------------------------------------------------
-    # TODO: 5. Implement and test this function.
+    # DONE: 5. Implement and test this function.
     #          Some tests are already written for you (above).
     #
     # IMPLEMENTATION RESTRICTION:
